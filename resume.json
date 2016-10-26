@@ -1,0 +1,145 @@
+{
+  "basics": {
+    "name": "Gaurav Gajjar",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "gajjargaurav@gmail.com",
+    "phone": "0741 236 3322",
+    "website": "http://gajjargaurav.co.uk/",
+    "summary": "I am a software engineer currently working on Node.js and microservices architecture. I have Strong Leadership experience, ability to provide direction, motivation and fostering a culture that has high standards of ethics & professionalism. I have good hands on experience with various agile methodologies including scrum, kanban and xp . I am passionate about Software & Systems Architectures, Scalability, Performance, Good Code, End to end testing",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Harrow",
+      "countryCode": "UK",
+      "region": ""
+    },
+"profiles": [
+      {
+        "network": "GitHub",
+        "username": "gajjargaurav",
+        "url": "https://github.com/gajjargaurav"
+      },
+      {
+        "network": "Twitter",
+        "username": "gauravgajjar",
+        "url": "https://twitter.com/gauravgajjar"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Gajjar Gaurav",
+        "url": "https://uk.linkedin.com/in/gajjargaurav"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Concrete Media Ltd",
+      "position": "Software Engineer",
+      "website": "http://concreteplatform.com/",
+      "startDate": "2015-09",
+      "endDate": "2016-08",
+      "summary": "A digital asset management platform for retailers, with workflow, planning, communications and job management to aid collaboration in an enterprise environment.",
+      "highlights": [
+        "Design and built a Node REST API for the retail execution platform.",
+        "Design a Access Control API based on a graph database for authorisation of resources to requesting users.",
+        "Improve test coverage of existing applications with both unit tests and integration tests.",
+        "Help establish the Continuous Delivery pipeline for the platform being built",
+        "Help design and evolve application architecture"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Hemchandracharya’s North Gujarat University",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2001",
+      "endDate": "2004",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "MCTS",
+      "date": "2008-09",
+      "awarder": "Microsoft",
+      "summary": "MS.Net Framework 2.0 – Web Applications"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front-End",
+      "level": "",
+      "keywords": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "jQuery",
+        "ASP.NET"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "",
+      "keywords": [
+        "Node",
+        "Hapi/Express",
+        "RESTful APIs",
+        "MongoDB",
+        "OrientDB",
+        "MySQL/MSSQL",
+        ".NET/C#"
+      ]
+    },
+    {
+      "name": "Development Lifecycle",
+      "level": "",
+      "keywords": [
+        "Jenkins",
+        "Git/SVN",
+        "GitLab/GitHub/Bitbucket",
+        "Agile(Scrum, kanban, xp)",
+        "Gulp/Grunt"
+      ]
+    },
+    {
+      "name": "Testing",
+      "level": "",
+      "keywords": [
+        "Mocha",
+        "Chai/Shouldjs",
+        "sinon",
+        "Supertest"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "fluent"
+    },
+    {
+      "language": "Gujarati",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Cricket",
+        "Badminton"
+      ]
+    }
+  ],
+  "references": [
+  ]
+}

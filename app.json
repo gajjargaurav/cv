@@ -1,0 +1,19 @@
+{
+    "devtools_port": 9090,
+    "startup_app": {
+        "name": "gg-jsonresume",
+        "description": "OpenFin POC",
+        "url": "https://registry.jsonresume.org/gajjargaurav",
+        "uuid": "gg-jsonresume-0ahqu59yy00vnqaujl2htihpvi",
+        "autoShow": true
+    },
+    "runtime": {
+        "arguments": "",
+        "version": "beta"
+    },
+    "shortcut": {
+        "company": "OpenFin",
+        "description": "Openfin POC",
+        "name": "gg-jsonresume"
+    }
+}
